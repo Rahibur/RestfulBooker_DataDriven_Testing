@@ -21,7 +21,7 @@ features and is loaded with a bunch of bugs for you to explore.
 1 POST - Create Authentication Token 
 
   -----------------------------------------------------------------------
-  ![](./image1.png)
+  ![Image](https://github.com/user-attachments/assets/814f5d20-58e5-4310-8086-6dda52c87fab)
   -----------------------------------------------------------------------
   
   -----------------------------------------------------------------------
