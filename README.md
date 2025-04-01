@@ -1,4 +1,4 @@
-# **API Testing**
+# **Data Driven Testing**
 ![Image](https://github.com/user-attachments/assets/c9740e57-0248-4680-82d2-eaf9a7960bba)
 ### Project name: RestfulBooker
 ([https://restful-booker.herokuapp.com](https://restful-booker.herokuapp.com/))
@@ -18,7 +18,7 @@ features and is loaded with a bunch of bugs for you to explore.
 
 ## **API Endpoints Tested**
 
-1 POST - Create Authentication Token
+1 POST - Create Authentication Token 
 
   -----------------------------------------------------------------------
   ![](./image1.png)
@@ -30,27 +30,27 @@ features and is loaded with a bunch of bugs for you to explore.
 ![Image](https://github.com/user-attachments/assets/3d7789bc-e2aa-406d-bdcc-dcf12d7c9dc0)
 
 -----------------------------------------------------------------------
-3 POST - Create a Booking
-![Image](https://github.com/user-attachments/assets/fec59957-bfc7-4fed-a0fa-aeab89b41ba5)
+3 POST - Create a Booking (reference : data.csv)
+![Image](https://github.com/user-attachments/assets/c466db33-c416-4a74-98c8-2e3933f7df76)
 
 -----------------------------------------------------------------------
-4 GET - Retrieve a Single Booking
-![Image](https://github.com/user-attachments/assets/7eacf746-46c4-4541-a948-d9bee8d4c902)
+4 GET - Retrieve a Single Booking (reference : data.csv)
+![Image](https://github.com/user-attachments/assets/cef25899-9560-41d7-a8c1-19faa21924cd)
 
 -----------------------------------------------------------------------
-5 PUT - Update Booking
-![Image](https://github.com/user-attachments/assets/43863409-e54e-4a87-86bb-c97997f0d2c9)
+5 PUT - Update Booking (reference : data.csv)
+![Image](https://github.com/user-attachments/assets/71b8b497-f28e-440a-a14b-dd4cadfd3afb)
 
 -----------------------------------------------------------------------
-6 GET - Retrieve Updated Booking Data
+6 GET - Retrieve Updated Booking Data (reference : data.csv)
 ![Image](https://github.com/user-attachments/assets/71e60250-483d-4902-8fc6-881700ffb8aa)
 
 -----------------------------------------------------------------------
-7 PATCH - Update a Partial Booking
+7 PATCH - Update a Partial Booking (reference : data.csv)
 ![Image](https://github.com/user-attachments/assets/a978f14c-09d8-4812-aad5-00b52900b287)
 
 -----------------------------------------------------------------------
-8 DELETE - Remove a Booking
+8 DELETE - Remove a Booking (reference : data.csv)
 ![Image](https://github.com/user-attachments/assets/9b3306a2-0aee-43ec-9c14-db5a556ae8b3)
 
 -----------------------------------------------------------------------
