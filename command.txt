@@ -1,0 +1,1 @@
+newman run RestfulBooker.postman_collection.json -d data.csv -e QA.postman_environment.json -r cli,htmlextra
