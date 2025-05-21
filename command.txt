@@ -1,0 +1,1 @@
+newman run RestfulBooker_data_driven_testing.postman_collection.json -d data.json -e QA.postman_environment.json -r cli,htmlextra --iteration-count 2
